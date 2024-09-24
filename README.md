@@ -49,17 +49,10 @@ data operations in RDBMS. We have used
 Oracle database to implement our project.
 
 3. TECHNOLOGY 
-3.1. SOFTWARE REQUIREMENTS 
+   SOFTWARE REQUIREMENTS 
 The following are the software used in 
 our project – 
-o Java SE version 15.0.2 
-o Oracle 11g database – 
-SQLPLUS 11.2.0.2.0 
-3.2. HARDWARE REQUIREMENTS 
-The hardware interface requirements 
-ensure the software executes all requests 
-given by the user efficiently. They are – 
-o Processor – Intel core i5 
-and above 
-o RAM – Minimum 
-2GB/4GB and above
+->** Java SE version 15.0.2 
+-> Oracle 11g database – 
+SQLPLUS 11.2.0.2.0 **
+
