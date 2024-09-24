@@ -18,3 +18,5 @@ Overall, the project highlights the transformative
 potential of EMRs in enhancing healthcare delivery 
 and calls for collaboration among stakeholders to 
 ensure successful implementation.
+
+Uses SQL as data base and Java Swings for the Frontend.
